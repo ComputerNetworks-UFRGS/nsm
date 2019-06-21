@@ -1,0 +1,13 @@
+changes
+C1	4	insert 1 ok
+C1	13	insert 3 1 ok
+C1	19	delete 7 1 insert 3 ok
+C2	29  delete 7 insert 6 ok
+C3	51	delete 1 7 ok
+C4	75	insert 5 7 ok
+C4	80	delete 1 1 7 insert 5
+inserted
+C2	1 2 3
+C3	1 ok
+deleted
+C3	64 ok

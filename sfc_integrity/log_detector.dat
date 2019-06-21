@@ -1,0 +1,58 @@
+2016-12-02 14:44:46.244658
+_____VNFFG_____
+No anomalies found in VNFFG view
+_____VNF_____
+No anomalies found in VNF view
+_____VDU_____
+No anomalies found in VDU view
+2016-12-02 15:38:37.428436
+_____VNFFG_____
+No anomalies found in VNFFG view
+_____VNF_____
+No anomalies found in VNF view
+_____VDU_____
+No anomalies found in VDU view
+2016-12-02 15:38:57.358349
+_____VNFFG_____
+No anomalies found in VNFFG view
+_____VNF_____
+No anomalies found in VNF view
+_____VDU_____
+No anomalies found in VDU view
+2016-12-02 15:40:01.525833
+_____VNFFG_____
+Anomaly detetected!
+{'values_changed': {"root[2]['vnfs']": {'new_value': 'vnf7,vnf8,vnf9,1', 'old_value': 'vnf7,vnf8,vnf9'}}}
+_____VNF_____
+Anomaly detetected!
+{'values_changed': {"root[8]['vdus']": {'new_value': 'vdu17,vdu18,1', 'old_value': 'vdu17,vdu18'}}}
+_____VDU_____
+Anomaly detetected!
+{'values_changed': {"root[17]['virtual_network_bandwidth_resource']": {'new_value': 'uuu,4', 'old_value': 'uuu'}}}
+2016-12-02 15:40:54.089617
+_____VNFFG_____
+Anomaly detetected!
+{'values_changed': {"root[2]['vnfs']": {'new_value': 'vnf7,vnf8,vnf9,1', 'old_value': 'vnf7,vnf8,vnf9'}}}
+_____VNF_____
+Anomaly detetected!
+{'values_changed': {"root[8]['vdus']": {'new_value': 'vdu17,vdu18,1', 'old_value': 'vdu17,vdu18'}}}
+_____VDU_____
+Anomaly detetected!
+{'values_changed': {"root[17]['virtual_network_bandwidth_resource']": {'new_value': 'uuu,4', 'old_value': 'uuu'}}}
+2016-12-14 15:23:20.444981
+_____VNFFG_____
+Anomaly detetected!
+{}
+_____VNF_____
+Anomaly detetected!
+{}
+_____VDU_____
+Anomaly detetected!
+{}
+2016-12-14 15:24:44.414880
+_____VNFFG_____
+No anomalies found in VNFFG view
+_____VNF_____
+No anomalies found in VNF view
+_____VDU_____
+No anomalies found in VDU view

@@ -1,0 +1,20 @@
+150 VNFFG
+450 VNF
+
+CATALOGED - NO ANOMALY
+{'vnffg_id': 1.584962500721156, 'virtual_links': 3.169925001442312, 'connection_points': 3.169925001442312, 'vnfs': 3.169925001442312}
+
+1 inserted anomaly VNFFG - VNF
+{'vnffg_id': 1.584962500721156, 'virtual_links': 3.169925001442312, 'connection_points': 3.169925001442312, 'vnfs': 3.1856415270278284}
+
+2 inserted anomaly VNFFG - VNF
+{'vnffg_id': 1.584962500721156, 'virtual_links': 3.169925001442312, 'connection_points': 3.169925001442312, 'vnfs': 3.2012955876394664}
+
+4 inserted anomaly VNFFG - VNF
+{'vnffg_id': 1.584962500721156, 'virtual_links': 3.169925001442312, 'connection_points': 3.169925001442312, 'vnfs': 3.2280126163688303}
+
+1 removed anomaly VNFFG - VNF
+{'vnffg_id': 1.584962500721156, 'virtual_links': 3.169925001442312, 'connection_points': 3.169925001442312, 'vnfs': 3.1698962265640094}
+
+4 removed anomaly VNFFG - VNF
+{'vnffg_id': 1.584962500721156, 'virtual_links': 3.169925001442312, 'connection_points': 3.169925001442312, 'vnfs': 3.1697939992204227}
