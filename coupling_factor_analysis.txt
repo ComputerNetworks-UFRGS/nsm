@@ -1,0 +1,1 @@
+Considering the code with 11 functions, of which 4 are suppliers, there is a Coupling Factor (COF) of 0.05454 (remembering that fully connected software has COF equal to 1 and the higher the COF, the less its resusability).
